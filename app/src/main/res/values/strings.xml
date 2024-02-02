@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Login</string>
+    <string name="have_not_account">Have Not Account?</string>
+    <string name="register_here">Register Here</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">Save</string>
+    <string name="email">Email</string>
+    <string name="buy_medicine">Buy Medicine</string>
+    <string name="find_doctor">Find Doctor</string>
+    <string name="health_article">Health Article</string>
+    <string name="order_details">Order Details</string>
+    <string name="lab_test">Lab Test</string>
+    <string name="daily_walking">Walking for 30 minutes a day or more on most days of the week is a great way to improve or maintain your overall health.
+If you can’t manage 30 minutes a day, remember even short walks more frequently can be beneficial.
+Walking with others can turn exercise into an enjoyable social occasion.
+See your doctor for a medical check-up before embarking on a higher-intensity new fitness program, particularly if you are aged over 40 years, are overweight or haven’t exercised in a long time.</string>
+    
+    <string name="stop_smoking">When asked why you smoke, you might have said, “I just like to smoke!” or “It’s my choice to smoke.” The tobacco companies have promoted the idea that smoking is a matter of personal choice. As I see it, there really isn’t as much choice as they have suggested to their customers.
+
+Ask yourself, and be totally honest: Am I addicted to tobacco? Am I truly making a freely made choice when I smoke?
+
+You might consider that your body needs to have a nicotine fix, and that the addiction is also part  psychological for most people. Studies have shown that nicotine addiction, part physiological and part psychological, is as hard to break as heroin or cocaine addiction.</string>
+</resources>
