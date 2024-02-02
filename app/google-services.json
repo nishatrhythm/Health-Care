@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "1035526142723",
-    "project_id": "healthcare-708e2",
-    "storage_bucket": "healthcare-708e2.appspot.com"
+    "project_number": "626104825328",
+    "firebase_url": "https://healthcare-nishat-default-rtdb.firebaseio.com",
+    "project_id": "healthcare-nishat",
+    "storage_bucket": "healthcare-nishat.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1035526142723:android:8d6e29086791dd5bfec736",
+        "mobilesdk_app_id": "1:626104825328:android:60da682d00f807c3ba5935",
         "android_client_info": {
           "package_name": "com.emranbdx.healthcare"
         }
@@ -15,7 +16,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAJHzqvIO4Dw90En72CYvABIQs7iz49EU8"
+          "current_key": "AIzaSyDQ5czSqOcARK9gfvPheQT5-YBTtYjAXw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626104825328:android:a872b090c27ffbc5ba5935",
+        "android_client_info": {
+          "package_name": "com.nishat.healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ5czSqOcARK9gfvPheQT5-YBTtYjAXw4"
         }
       ],
       "services": {

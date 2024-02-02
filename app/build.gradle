@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.emranbdx.healthcare'
+    namespace 'com.nishat.healthcare'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.emranbdx.healthcare"
+        applicationId "com.nishat.healthcare"
         minSdk 23
         targetSdk 34
         versionCode 1
